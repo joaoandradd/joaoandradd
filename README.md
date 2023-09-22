@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a834eb&height=170&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a834eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Pedro+Andrade;I+from+Brasil,+Fortaleza;I+study+systems+development+at+UNIFOR;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a834eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Pedro+Andrade;I+from+Brasil,+Fortaleza;I+study+Analysis+and+systems+development+at+UNIFOR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   I'm on the path to becoming a front-end developer passionate about creating amazing web experiences. This is my space on GitHub, where I share projects, learnings, and collaborations that reflect my journey in the world of web development. My main goal here is to develop myself as a talented front-end developer. I am constantly learning and improving my skills in HTML, CSS and JavaScript, as well as exploring the latest technologies and trends in the world of web development.
 
